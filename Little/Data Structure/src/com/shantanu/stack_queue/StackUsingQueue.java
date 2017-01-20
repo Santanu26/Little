@@ -22,9 +22,9 @@ public class StackUsingQueue {
 		System.out.println("\n\n remove item 1 : " + stack.pop());
 		System.out.println("\n\n remove item 2 : " + stack.pop());
 		System.out.println("\n\n remove item 3 : " + stack.pop());
-		/*System.out.println("\n\n remove item 4 : " + stack.pop());
+		System.out.println("\n\n remove item 4 : " + stack.pop());
 		System.out.println("\n\n remove item 5 : " + stack.pop());
-		System.out.println("\n\n remove item 6 : " + stack.pop());*/
+		System.out.println("\n\n remove item 6 : " + stack.pop());
 
 	}
 
